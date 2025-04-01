@@ -1,0 +1,17 @@
+{
+  "name": "@ruchiralk/cursor",
+  "version": "1.0.4",
+  "main": "src/Cursor.js",
+  "style": "src/cursor.css",
+  "dependencies": {
+    "react": "^18.0.0"
+  },
+  "keywords": [
+    "cursor",
+    "animation",
+    "custom cursor"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "description": "A custom animated cursor component for React"
+}
